@@ -1,0 +1,54 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.landing-page-wrap {
+  height: 100vh;
+}
+
+/****************
+iamge Section 
+*****************
+*/
+.image-landing {
+  background: url("img/earphone.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+/****************
+Form Section 
+*****************
+*/
+.form-landing {
+  background-color: #1a1a1a;
+  color: #f8f9fa;
+}
+
+.form-sub {
+  width: 68%;
+}
+
+.form-control {
+  height: 34%;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+.btn {
+  font-size: 16px;
+  color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 10px;
+  padding: 15px 32px;
+}
+
+.btn:hover {
+  color: #1a1a1a;
+  background-color: #f8f9fa;
+  border: 1px solid #1a1a1a;
+}

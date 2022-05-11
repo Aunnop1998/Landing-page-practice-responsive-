@@ -1,0 +1,85 @@
+/* BELOW 1168px (Smaller Destop)*/
+@media (max-width: 74em) {
+  h1 {
+    font-size: 33px;
+  }
+  .fs-4 {
+    font-size: 20px !important;
+  }
+  .fs-6 {
+    font-size: 14px !important;
+  }
+}
+
+/* BELOW 1040px (Smaller Destop)*/
+@media (max-width: 65em) {
+  .fs-6 {
+    font-size: 13px !important;
+  }
+  .form-control {
+    height: 31%;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  .mt-4 {
+    margin-top: 0.1rem !important;
+  }
+  .btn {
+    font-size: 14px;
+    padding: 7px 16px;
+  }
+}
+
+/* BELOW 928px (Taplet)*/
+@media (max-width: 58em) {
+  h1 {
+    font-size: 26px;
+  }
+  .fs-4 {
+    font-size: 16px !important;
+  }
+  .fs-6 {
+    font-size: 13px !important;
+  }
+  .form-sub {
+    width: 89%;
+  }
+}
+
+/* BELOW 736px (Taplet small)*/
+@media (max-width: 46em) {
+  h1 {
+    font-size: 24px;
+  }
+  .fs-4 {
+    font-size: 16px !important;
+  }
+  .fs-6 {
+    font-size: 13px !important;
+  }
+  .form-sub {
+    width: 95%;
+  }
+}
+
+/* BELOW 336px (Mobile S)*/
+@media (max-width: 21em) {
+h1 {
+  font-size: 20px;
+}
+.fs-4 {
+  font-size: 14px !important;
+}
+
+.fs-6 {
+  font-size: 11px !important;
+}
+
+.form-sub {
+  width: 100%;
+}
+.form-control {
+  height: 24%;
+}
+
+}
