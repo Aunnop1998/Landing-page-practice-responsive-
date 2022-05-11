@@ -1,5 +1,7 @@
 WATCH >>> https://aunnop1998.github.io/Landing-page-practice-responsive-/
+
 ฝึก responsive website หน้า Landing Page ขายโฆษณาสินค้าหูฟัง
+
 resource
 - https://unsplash.com/ for image(free license)
 - https://fonts.google.com/specimen/Rubik?query=rubik for font (free license)
